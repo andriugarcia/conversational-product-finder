@@ -1,0 +1,135 @@
+[{
+    "type": "images",
+    "question": "¿Para qué lo vas a usar?",
+    "description": "",
+    "options": [{
+        "answer": "Streaming y creación de vídeo",
+        "image": "https://image.freepik.com/foto-gratis/hombres-jugando-videojuegos_137573-635.jpg",
+        "description": "Buscaremos micrófonos recomendados para capturar voces",
+        "next": 1
+      },
+      {
+        "answer": "Podcasts",
+        "image": "https://image.freepik.com/foto-gratis/mujer-irreconocible-usando-laptop-cerca-libro_23-2147848138.jpg",
+        "description": "Buscaremos micrófonos recomendados para capturar voces",
+        "next": 3
+      },
+      {
+        "answer": "Para Cantar",
+        "image": "https://image.freepik.com/foto-gratis/dispositivo-moderno-app-netflix_23-2147915410.jpg",
+        "description": "Buscaremos microfonos adecuados para grabar voces a máxima calidad",
+        "next": 4
+      }
+    ]
+  },
+  {
+    "type": "range",
+    "value": "Price",
+    "question": "Límite de Precio",
+    "description": "Cual es tu mínimo y tu máximo",
+    "next": -1
+  },
+  {
+    "type": "question",
+    "question": "¿Donde quieres poner el micrófono?",
+    "description": "",
+    "options": [{
+        "answer": "Enganchado",
+        "description": "Se agarra a la ropa o los auriculares",
+        "next": 1
+      },
+      {
+        "answer": "Separado en la mesa",
+        "description": "El micro estará separado",
+        "next": 3
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "¿Que tipo de conexión prefieres?",
+    "description": "Más sencillo con USB, o más práctico y de mejor calidad",
+    "options": [{
+        "answer": "USB",
+        "description": "Són más fáciles de conectar y de mover, pero si se estropean tendrás que comprar otro entero",
+        "next": 1
+      },
+      {
+        "answer": "Por XLR, requiere alimentación Phantom",
+        "description": "Requiere comprar una alimentación Phantom o Interfaz de Audio, pero la calidad suele ser mejor",
+        "next": 1
+      }
+    ]
+  },
+  {
+    "type": "images",
+    "question": "¿Cuantas personas lo van a usar?",
+    "description": "",
+    "options": [{
+        "answer": "Unidireccional",
+        "image": "https://image.freepik.com/foto-gratis/hombres-jugando-videojuegos_137573-635.jpg",
+        "description": "Si solo se hablará desde un sólo lado",
+        "next": 3
+      },
+      {
+        "answer": "Bidireccional",
+        "image": "https://image.freepik.com/foto-gratis/mujer-irreconocible-usando-laptop-cerca-libro_23-2147848138.jpg",
+        "description": "Si dos personas van a hablar por cada lado",
+        "next": 3
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "¿Dónde lo vas a usar?",
+    "description": "Determinaremos que patrón polar es más conveniente",
+    "options": [{
+        "answer": "Grabar en Casa o en Estudio",
+        "description": "Usaremos patrones menos restrictivos",
+        "next": 7
+      },
+      {
+        "answer": "Para conciertos y eventos",
+        "description": "Buscaremos auriculares con más aislación",
+        "next": 7
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "¿Lo quieres inalámbrico?",
+    "description": "Los inalámbricos son más cómodos para moverse",
+    "options": [{
+        "answer": "Inalámbricos",
+        "description": "Son más cómodos para moverse por el sitio",
+        "next": 7
+      },
+      {
+        "answer": "Por cable",
+        "description": "Suelen ser más económicos",
+        "next": 7
+      },
+      {
+        "answer": "Me da igual",
+        "description": "Te buscaremos de ambos tipos",
+        "next": 7
+      }
+    ]
+  },
+  {
+    "type": "question",
+    "question": "¿Qué tipo de voz tienes?",
+    "description": "Dependiendo de la potencia, son más recomendados de un tipo u otro",
+    "options": [{
+        "answer": "Voz potente y rasgada",
+        "description": "Buscaremos de tipo dinámico",
+        "next": 1
+      },
+      {
+        "answer": "Voz dulce y delicada",
+        "description": "Buscaremos de tipo condensador",
+        "next": 1
+      }
+    ]
+  },
+]

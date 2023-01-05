@@ -1,0 +1,111 @@
+[{
+    "name": "TONOR",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/7108XS4Kv4L._AC_SL1500_.jpg",
+    "link": "https://amzn.to/36itukH",
+    "pattern": "cardioide",
+    "tags": ["Choice", "USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Brazo y filtro"],
+    "Price": 64.99
+
+  },
+  {
+    "name": "TONOR",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81l2Y3FPi6L._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3mXr9Cy",
+    "pattern": "cardioide",
+    "tags": ["Choice", "USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Trípode"],
+    "Price": 36.99
+  },
+  {
+    "name": "Sucastle",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71n3R0D3NJL._AC_SL1400_.jpg",
+    "link": "https://amzn.to/32nIT2d",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Brazo y filtro"],
+    "Price": 39.80
+  },
+  {
+    "name": "Samson C01U Pro",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81ui4XvcSWL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3n39Zn5",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Trípode"],
+    "Price": 83.95
+  },
+  {
+    "name": "FIFINE Micrófono USB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/617Oybm34rL._AC_SL1200_.jpg",
+    "link": "https://amzn.to/38ln1rV",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Trípode"],
+    "Price": 35.99
+  },
+  {
+    "name": "Rode NT-USB",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/619eUD65k3L._AC_SL1500_.jpg",
+    "link": "https://amzn.to/356qvMZ",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Trípode"],
+    "Price": 168
+  },
+  {
+    "name": "Blue Yeti Nano",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71khH7EY9DL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/359XkZG",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Soporte"],
+    "Price": 119.99
+  },
+  {
+    "name": "Blue Snowball ICE",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71MThFYk5aL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3mYXrNq",
+    "pattern": "cardioide",
+    "tags": ["Choice", "USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Soporte", "Sin control de volumen"],
+    "Price": 64.99
+  },
+  {
+    "name": "Blue Microphones Yeti",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61LmU6eBjyL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3kazRf9",
+    "pattern": "cardioide",
+    "tags": ["Choice", "USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Soporte"],
+    "Price": 139.99
+  },
+  {
+    "name": "Blue Microphones Yeti X",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61yw%2BMkDwpL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/3pb1B75",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Soporte"],
+    "Price": 179.99
+  },
+  {
+    "name": "Razer Seiren Emote",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71pH95tDwuL._AC_SL1500_.jpg",
+    "link": "https://amzn.to/2U7PDge",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["Pantalla con Emojiconos", "USB", "Hiper Cardioide", "Condensador", "Amortiguador Integrado"],
+    "Price": 149.99
+  },
+  {
+    "name": "FIFINE",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/614M-dfMPCL._AC_SL1024_.jpg",
+    "link": "https://amzn.to/36mj8AG",
+    "pattern": "cardioide",
+    "tags": ["USB"],
+    "show": ["USB", "Cardioide", "Condensador", "Con Soporte Ajustable"],
+    "Price": 45.99
+  }
+
+]
